@@ -1,0 +1,14 @@
+C:\Users\Nayeem\source\repos\MagicMatter\MagicMatter\bin\Debug\netcoreapp2.1\MagicMatter.deps.json
+C:\Users\Nayeem\source\repos\MagicMatter\MagicMatter\bin\Debug\netcoreapp2.1\MagicMatter.runtimeconfig.json
+C:\Users\Nayeem\source\repos\MagicMatter\MagicMatter\bin\Debug\netcoreapp2.1\MagicMatter.runtimeconfig.dev.json
+C:\Users\Nayeem\source\repos\MagicMatter\MagicMatter\bin\Debug\netcoreapp2.1\MagicMatter.dll
+C:\Users\Nayeem\source\repos\MagicMatter\MagicMatter\bin\Debug\netcoreapp2.1\MagicMatter.pdb
+C:\Users\Nayeem\source\repos\MagicMatter\MagicMatter\obj\Debug\netcoreapp2.1\MagicMatter.csprojAssemblyReference.cache
+C:\Users\Nayeem\source\repos\MagicMatter\MagicMatter\obj\Debug\netcoreapp2.1\MagicMatter.csproj.CoreCompileInputs.cache
+C:\Users\Nayeem\source\repos\MagicMatter\MagicMatter\obj\Debug\netcoreapp2.1\MagicMatter.RazorAssemblyInfo.cache
+C:\Users\Nayeem\source\repos\MagicMatter\MagicMatter\obj\Debug\netcoreapp2.1\MagicMatter.RazorAssemblyInfo.cs
+C:\Users\Nayeem\source\repos\MagicMatter\MagicMatter\obj\Debug\netcoreapp2.1\MagicMatter.AssemblyInfoInputs.cache
+C:\Users\Nayeem\source\repos\MagicMatter\MagicMatter\obj\Debug\netcoreapp2.1\MagicMatter.AssemblyInfo.cs
+C:\Users\Nayeem\source\repos\MagicMatter\MagicMatter\obj\Debug\netcoreapp2.1\MagicMatter.RazorTargetAssemblyInfo.cache
+C:\Users\Nayeem\source\repos\MagicMatter\MagicMatter\obj\Debug\netcoreapp2.1\MagicMatter.dll
+C:\Users\Nayeem\source\repos\MagicMatter\MagicMatter\obj\Debug\netcoreapp2.1\MagicMatter.pdb
